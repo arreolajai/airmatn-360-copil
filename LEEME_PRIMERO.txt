@@ -1,0 +1,80 @@
+AIRMAINT 360 PRO OFFLINE - ULTIMA VERSION CONSOLIDADA v3.2.1
+
+AIRMAINT 360 PRO OFFLINE v3.0
+
+COMPUTADORA WINDOWS
+1. Descomprima el ZIP completo.
+2. Abra ABRIR_AIRMAINT_PRO.bat o index.html.
+3. Use Microsoft Edge o Google Chrome.
+4. Toda la informacion queda guardada localmente en ese navegador.
+
+RESPALDO OBLIGATORIO
+Use Configuracion > Descargar JSON antes de limpiar el navegador, mover la aplicacion o cambiar de equipo. Las fotografias comprimidas se incluyen en el respaldo.
+
+CELULAR Y TABLET
+El paquete se adapta a pantallas pequenas. Android puede abrir index.html mediante un administrador de archivos compatible, pero para instalarlo con icono y operacion PWA completa debe alojarse mediante HTTPS o empaquetarse como APK.
+
+MEJORAS v3.0
+- Expediente tecnico y fotografia
+- Horometro fisico, acumulado y offset
+- Programa por horas y fecha
+- OT con HH, costos y evidencia
+- Inspecciones con foto
+- Fallas, paros, causa y accion
+- Refacciones, stock y movimientos
+- KPIs: disponibilidad, MTTR, horas de paro y PM
+- Pareto por componente
+- Reportes CSV y PDF por impresion
+- Auditoria, respaldo y restauracion
+
+LIMITACIONES
+- No es APK ni EXE firmado.
+- No sincroniza automaticamente entre dispositivos.
+- El patron visual de identificacion no es un codigo QR escaneable en este paquete.
+- Los KPI usan datos locales y un periodo de referencia configurable pendiente para una siguiente revision.
+
+
+NOVEDADES v3.1
+- QR ISO escaneable generado completamente offline.
+- Etiquetas de 10x10, 15x15 y 20x20 cm.
+- El QR contiene codigo, nombre, ubicacion, serie y criticidad.
+- Pantalla Etiquetas QR para imprimir todos los activos.
+
+
+NOVEDADES v3.2
+- Diseñador de etiquetas con controles editables.
+- Datos precargados desde cualquier activo.
+- Edición de código, equipo, ubicación, criticidad, serie, HP, voltaje y PSI.
+- Orientación vertical u horizontal.
+- Tamaños 10x10, 15x15 y 20x20 cm.
+- Controles para mostrar u ocultar campos.
+- Vista previa en tiempo real.
+- Criticidad A/B/C con color automático.
+- Impresión y guardado como PDF.
+- Descarga individual del QR en SVG.
+
+
+NOVEDADES v3.2.1
+- Código, equipo, ubicación y criticidad son obligatorios.
+- La serie es obligatoria cuando se muestra.
+- HP, voltaje y PSI son obligatorios y deben ser mayores que cero cuando se muestran.
+- Mensajes visibles junto a la vista previa.
+- Campos incorrectos se resaltan en rojo.
+- Impresión/ PDF y descarga SVG se bloquean hasta corregir los errores.
+- El QR no se genera con datos incompletos.
+
+
+FUNCIONES CONSOLIDADAS
+- Aplicacion standalone y almacenamiento local offline.
+- Expediente tecnico de compresores y fotografias.
+- Horometro fisico, offset y acumulado.
+- Programa maestro por horas y calendario.
+- Ordenes de trabajo con costos, HH y evidencias.
+- Inspecciones, fallas, paros y refacciones.
+- KPIs, alertas, CSV, impresion PDF y respaldos JSON.
+- QR escaneable generado sin Internet.
+- Etiquetas verticales y horizontales.
+- Formatos 10x10, 15x15 y 20x20 cm.
+- Campos editables y visibilidad configurable.
+- Validaciones obligatorias antes de imprimir o exportar.
+- Exportacion individual del QR en SVG.
