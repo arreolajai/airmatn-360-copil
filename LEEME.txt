@@ -1,0 +1,21 @@
+AIRMAINT 360 OFFLINE - VERSION 2.0 MVP
+
+ABRIR EN COMPUTADORA WINDOWS
+1. Descomprima este archivo ZIP.
+2. Abra la carpeta AIRMAINT 360.
+3. Haga doble clic en ABRIR_AIRMAINT.bat o en index.html.
+4. Use Microsoft Edge o Google Chrome.
+
+ABRIR EN CELULAR O TABLET
+Esta carpeta debe publicarse una sola vez en un servidor local o servicio de alojamiento para que Android permita instalarla como PWA. El archivo index.html puede abrirse directamente, pero algunos navegadores limitan el almacenamiento y el modo offline cuando se usa como archivo local.
+
+DATOS
+- Los registros se guardan en el navegador del dispositivo mediante almacenamiento local.
+- Use Configuracion > Descargar respaldo antes de borrar datos, limpiar el navegador o cambiar de equipo.
+- Para mover datos a otro dispositivo, copie el archivo JSON e impórtelo desde Configuracion.
+
+LIMITACIONES DE ESTE PAQUETE MVP
+- No incluye instalador APK ni EXE firmado.
+- No sincroniza automáticamente entre dispositivos.
+- Fotografías y SQLite nativo quedan para el empaquetado Android/Windows.
+- Si usa dispositivos diferentes, cada uno tendrá su propia base hasta importar un respaldo.
